@@ -18,6 +18,6 @@ import axios from 'axios'
 function App() {
     
    
-    return(<NoteDisplay/>)
+    return(<Country/>)
 }
 export default App
